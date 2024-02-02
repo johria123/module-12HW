@@ -7,7 +7,7 @@ This command-line application is designed for managing departments, roles, and e
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+
 
 ## Features
 - package-lock.json 
@@ -21,11 +21,5 @@ This command-line application is designed for managing departments, roles, and e
     1. clone the repository
     2. install dependencies
     3. start the application
-
-
-## Usuage
-    1. First open the application in your browser
-   
-
-![screenshot]()
+ 
 [do not forget to visit my page to view the application] (https://github.com/johria123/module-12HW)
